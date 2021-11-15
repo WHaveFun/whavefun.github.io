@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+
+deploy:
+  type: git
+  repository: https://github.com/whavefun/whavefun.github.io.git
+  branch: master
